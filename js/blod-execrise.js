@@ -23,7 +23,6 @@
  * @author  TECHCareers by Manpower
  * @date    2020.03.31
 //  * @summary Iterates through blog articles and outputs an HTML representation of each.
- * 
  * Goals:
  * ======
  * - Output into the DOM.
