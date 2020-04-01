@@ -48,8 +48,8 @@ class Article {
     {
       // Populate the element.
       element.innerHTML += `
-        <h1>${this.title}</h1>
-          <h2>${this.content}</h2>
+        <h1 style="color: blue;">Title :${this.title}</h1>
+          <h2 style="color: rgb(38, 53, 14);">Content :${this.content}</h2>
       
       `;
     }
